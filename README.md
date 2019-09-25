@@ -8,5 +8,5 @@ Publiczne repozytorium z przetłumaczonymi aplikacjami i funkcjami ROMu MiRoom, 
 Tłumaczenia można używać wedle zasad licencji MIT. 
 Translations can be used according to the MIT license rules.
 
-Aktualne, jak i archiwalne wersje ROMu MiRoom można odnaleźć pod adresem https://miuipro.info/roms
-Current and archival versions of the MiRoom ROM can be found at https://miuipro.info/roms
+Aktualne, jak i archiwalne wersje ROMu MiRoom można odnaleźć pod adresem https://portal.mi-room.ru/roms/
+Current and archival versions of the MiRoom ROM can be found at https://portal.mi-room.ru/roms/
